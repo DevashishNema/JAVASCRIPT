@@ -46,8 +46,36 @@
 
 // for in loop
 
-var ar = [1,2,3,4,5]
+// var ar = [1,2,3,4,5]
 
-for(var n in ar){
-    console.log(n)
-}
+// for(var n in ar){
+//     console.log(n)
+// }
+
+
+
+
+// let a = [1,2,3,4,5]
+
+// for(let i=0 ; i<5 ; i++){
+//     a[i] = a[i]*a[i]
+//     console.log(a[i])
+// }
+
+
+
+
+// let a=[1,2,3,4,5]
+// for(let i in a){
+//     console.log(i)
+// }
+
+
+// let a=[1,2,3,4,5]
+// for(let i of a){
+//     console.log(i)
+// }
+
+
+
+
